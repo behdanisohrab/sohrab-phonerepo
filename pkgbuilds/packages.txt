@@ -2,3 +2,5 @@
 gnome-network-display
 phosh-tour
 authenticator
+materialgram
+pipeline-gtk
