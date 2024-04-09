@@ -4,7 +4,7 @@
 
 _pkgname=squeekboard
 pkgname=squeekboard-git
-pkgver=1.17.0.r4.gbd39089
+pkgver=1.38.0.r7.gd3f03e9
 pkgrel=1
 pkgdesc='Virtual keyboard supporting Wayland, built primarily for the Librem 5 phone'
 arch=(i686 x86_64 arm armv6h armv7h aarch64)
