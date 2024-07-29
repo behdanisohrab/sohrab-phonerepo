@@ -5,3 +5,4 @@ squeekboard-git
 authenticator
 #materialgram
 pipeline-gtk
+obs-studio
