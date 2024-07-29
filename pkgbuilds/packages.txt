@@ -5,4 +5,5 @@ squeekboard-git
 authenticator
 #materialgram
 pipeline-gtk
-obs-studio
+#obs-studio
+blue-recorder-git
