@@ -2,7 +2,7 @@
 # Contributor: RadioactiveRadio <barraiser59@gmail.com>
 pkgname=blue-recorder-git
 _app_id=sa.sy.bluerecorder
-pkgver=r196.9d61234
+pkgver=r199.1cfa3bb
 pkgrel=1
 pkgdesc="Simple Screen Recorder written in Rust based on Green Recorder"
 arch=('aarch64')
