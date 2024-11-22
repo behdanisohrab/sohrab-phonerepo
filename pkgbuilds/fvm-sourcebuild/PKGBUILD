@@ -50,7 +50,7 @@ package() {
 		'llvm'
 		'python-httplib2'
 		'python-six'
-		'python311'
+		'python'
 	)
 
 	cd "$_pkgname-$pkgver"
