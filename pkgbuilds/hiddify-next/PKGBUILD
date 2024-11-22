@@ -20,7 +20,7 @@ depends=('at-spi2-core'
 makedepends=('clang' 'cmake' 'ninja')
 source=("${pkgname}-${pkgver}.tar.gz::${url}/archive/refs/tags/v${pkgver}.tar.gz"
         "${pkgname}.desktop")
-sha256sums=('b50a33e00fa456b4c5b6f4a5247eeebeb832f992d0419963a6276f2676649545'
+sha256sums=('SKIP'
             'SKIP')
 
 prepare() {
