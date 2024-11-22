@@ -1,9 +1,3 @@
 # The packages to be built. Must be topologically sorted w.r.t dependencies.
-gnome-network-display
-phosh-tour
-squeekboard-git
-authenticator
-#materialgram
-pipeline-gtk
-#obs-studio
-blue-recorder-git
+fvm-sourcebuild
+hiddify-next
