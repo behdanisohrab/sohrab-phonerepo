@@ -17,7 +17,7 @@ depends=('at-spi2-core'
          'libayatana-appindicator'
          'libepoxy'
          'pango')
-makedepends=('clang' 'cmake' 'fvm' 'ninja')
+makedepends=('clang' 'cmake' 'ninja')
 source=("${pkgname}-${pkgver}.tar.gz::${url}/archive/refs/tags/v${pkgver}.tar.gz"
         "${pkgname}.desktop")
 sha256sums=('b50a33e00fa456b4c5b6f4a5247eeebeb832f992d0419963a6276f2676649545'
